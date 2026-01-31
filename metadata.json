@@ -1,0 +1,7 @@
+{
+  "name": "PaintVisualizer AI - Phối Màu Sơn Nhà Thông Minh",
+  "description": "Ứng dụng AI giúp bạn hình dung ngôi nhà mơ ước bằng cách thay đổi màu sơn trực tiếp trên ảnh chụp thật.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
